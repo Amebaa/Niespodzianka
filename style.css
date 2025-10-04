@@ -1,0 +1,203 @@
+body{
+    background-color: rgb(66, 207, 106);
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+#conteiner{
+     width: 1500px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+#jeden{
+    background-color: rgb(122, 231, 153);
+    width: 150px;
+    height: 80px;
+    margin-left: 45%;
+    text-align: center;
+    padding-bottom: -3%;
+    font-size: 80px;
+    border: 5px solid rebeccapurple;
+}
+
+a:link{
+    color: rgb(84, 13, 79);
+
+}
+
+a:visited{
+    color: rgb(116, 18, 100);
+
+}
+
+a:hover{
+    color: rgb(255, 255, 0);
+
+}
+
+#logo{
+  font-family: "Bitcount Prop Single Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+    background-color: rgb(74, 239, 135);
+    text-align: center;
+    font-size: 70px;
+    padding: -10px;
+    margin-bottom: -70px;
+}
+
+#info{
+    text-align: center;
+    background-color: rgb(169, 153, 167);
+    margin-top: -50px;
+    margin-bottom: 20px;
+    color: rgb(137, 26, 118);
+    font-weight: 200;
+
+
+}
+
+.linkuu{
+    text-decoration: none;
+    font-family: "Bitcount Prop Single Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+    
+}
+
+.zabka{
+    text-align: center;
+    padding: 8%;
+    margin-top: -2%;
+    margin-bottom: -5%;
+    font-weight: 700;
+    font-size: 25px;
+    color: rgb(8, 64, 19);
+}
+
+.zabol{
+    margin-left: 35%;
+    margin-top: 2%;
+}
+
+#imiee{
+    margin-left: 44%;
+    margin-top: 4%;
+}
+
+#guzi {
+    margin-left: 48%;
+    background-color: rgb(34, 187, 95);
+    margin-top: 1%;
+  
+}
+
+.smok{
+    text-decoration: none;
+    border: 5px dotted rgb(18, 154, 39);
+    background-color: rgb(28, 167, 49);
+    width: 150px;
+    height: 80px;
+    padding: 15px;
+    margin-right: 15%;
+    margin-top: 60px;
+}
+
+#kotek{
+    margin-left: 42%;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(110, 68, 8);
+}
+
+.zkotek{
+    margin-left: 35%;
+    margin-bottom: 1%;
+}
+
+#pytuk{
+    margin-left: 46%;
+     font-weight: 700;
+    font-size: 18px;
+    color:rgb(110, 68, 8);
+}
+
+.nakarm{
+    float: left;
+    margin-left: 30%;
+    margin-top: 4%;
+    border: 3px double rgb(80, 46, 19);
+    background-color: rgb(191, 143, 96);
+    text-decoration: none;
+    padding: 1%;
+    width: 50px;
+    text-align: center;
+    
+}
+
+#gerd{
+
+    margin-left: 47%;
+
+}
+
+#gerdo{
+
+   margin-left: 47%;
+
+}
+
+#end{
+    background-color: rgb(244, 137, 246);
+}
+
+#kochu{
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    color: rgb(220, 9, 136);
+    font-family: "Bitcount Prop Single Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+}
